@@ -1,6 +1,4 @@
-# Teste para vaga dev. Freelancer Flutter - MyProd
-Este repositório tem como fim testar os candidatos para vaga dev. Flutter Junior no projeto MyProd.
-
+# Teste UI Flutter - MyProd
 
 ## Instruções Básicas
 1. Faça um fork deste repositório
@@ -33,5 +31,3 @@ Este repositório tem como fim testar os candidatos para vaga dev. Flutter Junio
 Todo o layout está hospedado no Zeplin neste link: 
 https://scene.zeplin.io/project/5b48f7870acff10844983114
 
-## Envio do teste
-1. Suba o repositório no seu Github e envie o link com o assunto: **Teste Dev. Flutter Junior** para Jackson Aguiar [jacksonwellington.sa@gmail.com](mailto:jacksonwellington.sa@gmail.com)
